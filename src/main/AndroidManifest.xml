@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.administrator.mydairy">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CAMERA"></uses-permission>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ezdonor"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/mydaieyicon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Main3Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".LoginActivity"/>
+        <activity android:name=".Main4Activity"/>
+        <activity android:name=".MainYuyueActivity"/>
+        <activity android:name=".MainHistoryActivity"/>
+        <activity android:name=".MainActivity"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_2d4d059c4e0e77efca98ccfd121b5a4605d3ad9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_8f49f5e24aac85fa5c8607219d9ca1baee8b0cd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29c426f3ff52238291c86e939dff6bd8a877b86c">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.3.0_d498f7c190b9577fe9cdd50c760f1cbaa48a5a3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.5.2/2b4dd13fbe6f8c6b146d4c3b7fd70862f136802d/jackson-databind-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b4dd13fbe6f8c6b146d4c3b7fd70862f136802d">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/jackson-databind-2.5.2_d7a3e1fb025c472f678a3cb9c6b487c67e14857b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_f48d2ece6cc770920ee4db30937d81a349ef4de7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.5.0/a2a55a3375bc1cef830ca426d68d2ea22961190e/jackson-annotations-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2a55a3375bc1cef830ca426d68d2ea22961190e">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.5.0_c5af83c6c0676b1b7e870975582b4d9da2340c4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_ee7c71a2a5f9ce044c1bafeffdbc0d97bdb866d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.5.2/df483f65c7d6fb363427b0f46f1f34b910788be1/jackson-core-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df483f65c7d6fb363427b0f46f1f34b910788be1">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/jackson-core-2.5.2_758a11fec7a71ceefc4cf735e5f634fab40a7943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_80fd9e5035f3b236006c38afb7dd91641650466e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/core-3.2.1_a3b8bad279aeca46feb7542ff5fcc56715f3dafd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_079a499b44cd12e280c8c6ab240e19829b50df3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_9917b42d527397b3767394e31e0d7d647a8e7249.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_390622ee0fc63a524b09fb6d561f58edad78d699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_bdaa66753279deebff21e03257d9cff8322b496e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/derekshi/Desktop/MyDairy/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_7abcbb1005e1cd947fc6f9f11d3272e4b965bd22.jar" />
+    </item>
+
+</items>
